@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts are good to learn
+Schell Scripts are good to learn and fun to learn
